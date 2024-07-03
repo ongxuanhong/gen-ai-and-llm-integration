@@ -2,6 +2,20 @@
 
 ## 01 Running LLMs
 
+```bash
+# Install Pytorch conda
+conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia -y
+
+# Latest Windows App SDK downloads
+https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads
+
+# CUDA Toolkit 11.7 Downloads
+https://developer.nvidia.com/cuda-11-7-0-download-archive
+
+# cuDNN 9.2.0 Downloads
+https://developer.nvidia.com/cudnn-downloads
+```
+
 **04 LMQL playground**
 
 ```bash

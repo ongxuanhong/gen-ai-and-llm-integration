@@ -3,3 +3,4 @@ pinecone-client==4.1.1
 datasets==2.20.0
 seaborn==0.13.2
 matplotlib==3.9.0
+chromadb==0.5.3
